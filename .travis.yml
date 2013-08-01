@@ -1,0 +1,7 @@
+language: c
+compiler:
+  - gcc
+script:
+  - sudo apt-get install check
+  - cd check
+  - make clean compile test
