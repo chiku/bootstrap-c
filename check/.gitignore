@@ -1,0 +1,6 @@
+*.o
+*.gcda
+*.gcno
+test_runner
+coverage/**
+coverage.*
