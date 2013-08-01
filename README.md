@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/chiku/bootstrap-c.png)](https://travis-ci.org/chiku/bootstrap-c)
+
 bootstrap-C
 ===========
 
